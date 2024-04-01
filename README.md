@@ -11,6 +11,18 @@
 4. За основу возьмем реализацию типового ERC-20 токена
 ![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/fb5f82c8-a4e3-416b-b622-282062ccdd5c)
 
+5. В консоли имортируем библиотеку для ERC-20
+```npm install @openzeppelin/contracts ```
+![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/f6cc5264-e43c-4253-8401-704dead66951)
+
+
+6. Запустим
+```truffle compile```
+![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/bd5dd599-07bb-4972-8b21-81bd42debe8d)
+
+7. Создадим migration .js файл
+![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/97610eb8-4dfc-4bcb-8580-8d33307b8e2d)
+
 
 
 
