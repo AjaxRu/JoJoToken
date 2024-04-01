@@ -23,6 +23,31 @@
 7. Создадим migration .js файл
 ![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/97610eb8-4dfc-4bcb-8580-8d33307b8e2d)
 
+8. Открываем Ganache и выбираем наш truffle-config файл и нажимаем start
+![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/9266ffe4-e6b9-4691-8ab5-481b1e88dd63)
+
+9.Для корректной работы в этом файле нужно раскомментировать development
+![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/f238f7be-fb69-4cbe-b6d4-7d591779514a)
+
+А также (как я поняла, из-за проблемы версий) сделать следующие изменения:
+![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/44abfcf2-ff38-41d5-9c12-cd85f7df9286)
+
+Нажимем Save All
+
+10. В консоли вводим
+```truffle migration```
+![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/874f2530-f0a4-4113-b460-76dca5bf66fc)
+
+Контракт задеплоен. Нас наиболее интересует здесь поле account.
+В ganache так же видим изменение статуса контракта.
+![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/21655bf9-5411-4038-a035-51d82b907d6a)
+
+Можем посмотреть транзакцию, создавшую контракт.
+![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/f18ebf4f-fc4f-4f95-98ef-eab12a50d2be)
+
+
+
+
 
 
 
