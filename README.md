@@ -1,10 +1,10 @@
 # JoJoToken
-1. Необходимо установить Truffle, Ganache, расширение Solidity для VS Code
-2. Перейти в папку нашего проекта и ввести
+1. Необходимо установить Truffle, Ganache, расширение Solidity для VS Code \n
+2. Перейти в папку нашего проекта и ввести \n
    ```truffle init```
 ![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/18888b85-1fd5-4295-9e3f-f9d705f52256)
 
-3. Запускаем проект в VSCode 
+3. Запускаем проект в VSCode \n
 ```code . ```
 ![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/15e85f5e-7ff4-4ab4-9a5f-4111d1bc2311)
 
