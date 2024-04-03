@@ -32,7 +32,8 @@
 А также (как я поняла, из-за проблемы версий) сделать следующие изменения: <br/>
 ![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/44abfcf2-ff38-41d5-9c12-cd85f7df9286)
 
-Нажимем Save All <br/>
+Нажимаем Save All <br/>
+<br/>
 10. В консоли вводим 
 ```truffle migration``` <br/>
 ![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/874f2530-f0a4-4113-b460-76dca5bf66fc)
