@@ -26,7 +26,7 @@
 8. Открываем Ganache и выбираем наш truffle-config файл и нажимаем start <br/>
 ![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/9266ffe4-e6b9-4691-8ab5-481b1e88dd63)
 
-9.Для корректной работы в этом файле нужно раскомментировать development <br/>
+9. Для корректной работы в этом файле нужно раскомментировать development <br/>
 ![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/f238f7be-fb69-4cbe-b6d4-7d591779514a)
 
 А также (как я поняла, из-за проблемы версий) сделать следующие изменения: <br/>
