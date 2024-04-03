@@ -54,9 +54,9 @@
 Для начала импортируем библиотеку для тестов
 ```npm install @openzeppelin/test-helpers``` <br/>
 Далее создадим .js файл с тестами. У нас будет 3 теста: <br/>
-✔should deploy with correct name and symbol <br/>
-✔should mint initial supply to deployer <br/>
-✔should transfer tokens correctly <br/>
+✔При деплое должны быть правильные имя и символ <br/>
+✔Проверка корректности начального баланса токенов<br/>
+✔Корректно проводит трансфер токенов <br/>
 Закидываем файл в папку "test". <br/>
 В консоли в директории нашего проекта запускаем
 ```truffle test``` <br/>
