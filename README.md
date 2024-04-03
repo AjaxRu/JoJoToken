@@ -28,10 +28,8 @@
 
 9. Для корректной работы в этом файле нужно раскомментировать development <br/>
 ![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/f238f7be-fb69-4cbe-b6d4-7d591779514a)
-
 А также (как я поняла, из-за проблемы версий) сделать следующие изменения: <br/>
 ![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/44abfcf2-ff38-41d5-9c12-cd85f7df9286)
-
 Нажимаем Save All <br/>
 10. В консоли вводим 
 ```truffle migration``` <br/>
