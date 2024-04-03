@@ -58,6 +58,19 @@
 Также во вкладке транзакции:
 ![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/c3b89b65-e692-4e82-9e85-43d835ce4965)
 
+14. Проведем тесты
+Для начала импортируем библиотеку для тестов
+```npm install @openzeppelin/test-helpers```
+Далее создадим .js файл с тестами. У нас будет 3 теста:
+✔should deploy with correct name and symbol
+✔should mint initial supply to deployer
+✔should transfer tokens correctly
+Закидываем файл в папку "test".
+В консоли в директории нашего проекта запускаем
+```truffle test```
+![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/636e2315-4aea-4a42-8734-3d0d97fe25d0)
+
+
 
 
 
