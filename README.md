@@ -21,7 +21,7 @@ Utility нашего контракта заключается в создани
 
 6. Запустим 
 ```truffle compile``` <br/>
-![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/bd5dd599-07bb-4972-8b21-81bd42debe8d)
+![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/b2a68c25-0372-4749-bbc8-e85f4dfe6718)
 
 7. Создадим migration .js файл <br/>
 ![image](https://github.com/AjaxRu/JoJoToken/assets/145920622/97610eb8-4dfc-4bcb-8580-8d33307b8e2d)
